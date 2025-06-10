@@ -1,13 +1,13 @@
 # 👋 Hola, soy Jeison Guarguati
 
-Estudiante de Ingeniería de Sistemas en la Universidad Industrial de Santander. Me considero una persona **persistente**, **disciplinada** y **trabajadora**, con una gran pasión por el aprendizaje continuo y el desarrollo de soluciones que generen impacto en la sociedad.
+Estudiante de Ingeniería de Sistemas. Me considero una persona **persistente**, **disciplinada** y **trabajadora**, con una gran pasión por el aprendizaje continuo y el desarrollo de soluciones que generen impacto en la sociedad.
 
 ---
 
 ## 🚀 Sobre mí
 
 - 📚 Apasionado por la Ingeniería de Sistemas y el desarrollo de proyectos que puedan marcar una diferencia.
-- 🤝 Me gusta ayudar a otros, especialmente enseñando o explicando conceptos técnicos.
+- 🤝 Me gusta ayudar a otros, especialmente enseñando o explicando temas que comprendo.
 - 🧠 Actualmente enfocado en aprender **Python** y explorando el mundo del **Deep Learning** con herramientas como **HuggingFace** y **WandB**.
 
 ---
@@ -28,30 +28,29 @@ Estudiante de Ingeniería de Sistemas en la Universidad Industrial de Santander.
 
 ## 📂 Proyectos Destacados
 
-> A continuación algunos proyectos que he realizado. Estoy trabajando en subir más y añadir imágenes.
+> A continuación algunos proyectos que he realizado.
 
-### 🌟 Proyecto 1: Proyecto de tienda virtual
+### 🌟 Proyecto 1: Tienda virtual
 **Descripción:** Tienda virtual hecha con su frontend (React) y su backend (SpringBoot).<br>
 🔗 [Ver repositorio](https://github.com/JeiGeek/Proyecto_tienda)
 
-### 🌟 Proyecto 2: Nombre del proyecto
-**Descripción:** Breve explicación del propósito y lo que aprendí.<br>
-🔗 [Ver repositorio](#)
+### 🌟 Proyecto 2: Simulador de rutas para camiones de paquetería
+**Descripción:** Utilización de gráfos para encontrar rutas optimas para camiones de entrega de mensajería.<br>
+🔗 [Ver repositorio](https://github.com/JeiGeek/Mensajeria_con_grafos)
 
-### 🌟 Proyecto 3: Nombre del proyecto
-**Descripción:** Breve explicación del propósito y lo que aprendí.<br>
-🔗 [Ver repositorio](#)
+### 🌟 Proyecto 3: Detección de minas antipersona a partir de imágenes térmicas
+**Descripción:** A partir de modelos de deep learning se clasificaron y detectaron minas antipersonas con imagenes térmicas.<br>
+🔗 [Ver repositorio](https://github.com/JeiGeek/ThermalMineDetector)
 
 <!-- Puedes agregar imágenes aquí -->
 <!-- ![Descripción de la imagen](ruta/imagen.png) -->
 
 ---
 
-## 🌐 Conéctate conmigo
+## 🌐 Contacto
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/jeisonGuarguati)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tu_usuario_linkedin/)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/tu_usuario_instagram)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeison-guarguati-696279366/)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/jeison_g003/)  
 ✉️ jeisonensp03@gmail.com
 
 ---
