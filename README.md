@@ -30,9 +30,9 @@ Estudiante de Ingeniería de Sistemas en la Universidad Industrial de Santander.
 
 > A continuación algunos proyectos que he realizado. Estoy trabajando en subir más y añadir imágenes.
 
-### 🌟 Proyecto 1: Nombre del proyecto
-**Descripción:** Breve explicación del propósito y lo que aprendí.<br>
-🔗 [Ver repositorio](#)
+### 🌟 Proyecto 1: Proyecto de tienda virtual
+**Descripción:** Tienda virtual hecha con su frontend (React) y su backend (SpringBoot).<br>
+🔗 [Ver repositorio](https://github.com/JeiGeek/Proyecto_tienda)
 
 ### 🌟 Proyecto 2: Nombre del proyecto
 **Descripción:** Breve explicación del propósito y lo que aprendí.<br>
