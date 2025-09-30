@@ -12,11 +12,17 @@ Estudiante de Ingeniería de Sistemas. Me considero una persona **persistente**,
 
 ---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JeiGeek/JeiGeek/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JeiGeek/JeiGeek/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/JeiGeek/JeiGeek/output/pacman-contribution-graph.svg">
-</picture>
+<!-- Modo claro -->
+<img src="https://raw.githubusercontent.com/JeiGeek/JeiGeek/output/pacman-contribution-graph.svg" 
+     alt="Pac-Man contribution graph" 
+     style="display:block;" 
+     class="light-only"/>
+
+<!-- Modo oscuro -->
+<img src="https://raw.githubusercontent.com/JeiGeek/JeiGeek/output/pacman-contribution-graph-dark.svg" 
+     alt="Pac-Man contribution graph dark" 
+     style="display:block;" 
+     class="dark-only"/>
 
 ###
 
