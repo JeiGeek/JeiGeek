@@ -8,9 +8,17 @@ Estudiante de Ingeniería de Sistemas. Me considero una persona **persistente**,
 
 - 📚 Apasionado por la Ingeniería de Sistemas y el desarrollo de proyectos que puedan marcar una diferencia.
 - 🤝 Me gusta ayudar a otros, especialmente enseñando o explicando temas que comprendo.
-- 🧠 Actualmente enfocado en aprender **Python** y explorando el mundo del **Deep Learning** con herramientas como **HuggingFace** y **WandB**.
+- 🧠 Actualmente enfocado en aprender **Python** y explorando el mundo del **Desarrollo Web** con herramientas como **Django** y **Springboot**.
 
 ---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JeiGeek/JeiGeek/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JeiGeek/JeiGeek/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/JeiGeek/JeiGeek/output/pacman-contribution-graph.svg">
+</picture>
+
+###
 
 ## 🛠️ Tecnologías que estoy aprendiendo
 
