@@ -60,13 +60,13 @@ Estudiante de Ingeniería de Sistemas. Me considero una persona **persistente**,
 <table>
   <tr>
     <td align="center">
-      <a href="https://www.linkedin.com/in/tuusuario" target="_blank">
+      <a href="https://www.linkedin.com/in/jeison-guarguati-696279366/" target="_blank">
         <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="50" height="50" alt="LinkedIn"/>
         <br><strong>LinkedIn</strong>
       </a>
     </td>
     <td align="center">
-      <a href="https://www.instagram.com/tuusuario" target="_blank">
+      <a href="https://www.instagram.com/jeison_g003/" target="_blank">
         <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="50" height="50" alt="Instagram"/>
         <br><strong>Instagram</strong>
       </a>
@@ -77,7 +77,7 @@ Estudiante de Ingeniería de Sistemas. Me considero una persona **persistente**,
     </td>
     <td align="center">
       <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="50" height="50" alt="Discord"/>
-      <br><strong>JeisonGuarguati#1234</strong>
+      <br><strong>rolitopower#0834</strong>
     </td>
   </tr>
 </table>
