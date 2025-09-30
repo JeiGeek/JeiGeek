@@ -55,18 +55,38 @@ Estudiante de Ingeniería de Sistemas. Me considero una persona **persistente**,
 
 ---
 
-## 📬 Contacto
+## 📫 Contacto
 
-<div align="center">
-
-[![LinkedIn](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg)](https://www.linkedin.com/in/tuusuario)  
-[![Instagram](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg)](https://www.instagram.com/tuusuario)  
-
-✉️ **Email:** jeisonensp03@gmail.com  
-💬 **Discord:** JeisonGuarguati#1234
-
-</div>
-
+<table>
+  <tr>
+    <td>
+      <a href="https://www.linkedin.com/in/tuusuario" target="_blank">
+        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="40" alt="LinkedIn"/>
+        <strong> LinkedIn</strong>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.instagram.com/tuusuario" target="_blank">
+        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="40" height="40" alt="Instagram"/>
+        <strong> Instagram</strong>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="40" height="40" alt="Gmail"/>
+      <strong> jeisonensp03@gmail.com</strong>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="40" height="40" alt="Discord"/>
+      <strong> JeisonGuarguati#1234</strong>
+    </td>
+  </tr>
+</table>
 
 ---
 
