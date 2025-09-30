@@ -55,38 +55,33 @@ Estudiante de Ingeniería de Sistemas. Me considero una persona **persistente**,
 
 ---
 
-## 📫 Contacto
+## 📬 Contacto
 
 <table>
   <tr>
-    <td>
+    <td align="center">
       <a href="https://www.linkedin.com/in/tuusuario" target="_blank">
-        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="40" alt="LinkedIn"/>
-        <strong> LinkedIn</strong>
+        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="50" height="50" alt="LinkedIn"/>
+        <br><strong>LinkedIn</strong>
       </a>
     </td>
-  </tr>
-  <tr>
-    <td>
+    <td align="center">
       <a href="https://www.instagram.com/tuusuario" target="_blank">
-        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="40" height="40" alt="Instagram"/>
-        <strong> Instagram</strong>
+        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="50" height="50" alt="Instagram"/>
+        <br><strong>Instagram</strong>
       </a>
     </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="40" height="40" alt="Gmail"/>
-      <strong> jeisonensp03@gmail.com</strong>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="50" height="50" alt="Gmail"/>
+      <br><strong>jeisonensp03@gmail.com</strong>
     </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="40" height="40" alt="Discord"/>
-      <strong> JeisonGuarguati#1234</strong>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="50" height="50" alt="Discord"/>
+      <br><strong>JeisonGuarguati#1234</strong>
     </td>
   </tr>
 </table>
+
 
 ---
 
