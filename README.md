@@ -22,7 +22,6 @@ Estudiante de Ingeniería de Sistemas. Me considero una persona **persistente**,
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-003B57?style=flat&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/pypi/frameworkversions/:frameworkName/:packageName" />
 </div>
 
 ---
