@@ -58,7 +58,7 @@ Estudiante de Ingeniería de Sistemas. Me considero una persona **persistente**,
 ## 🌐 Contacto
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/tu-perfil](https://www.linkedin.com/in/jeison-guarguati-696279366/" target="_blank">
+  <a href="https://www.linkedin.com/in/jeison-guarguati-696279366/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn" />
   </a>
 
