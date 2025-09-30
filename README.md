@@ -12,20 +12,6 @@ Estudiante de Ingeniería de Sistemas. Me considero una persona **persistente**,
 
 ---
 
-<!-- Modo claro -->
-<img src="https://raw.githubusercontent.com/JeiGeek/JeiGeek/output/pacman-contribution-graph.svg" 
-     alt="Pac-Man contribution graph" 
-     style="display:block;" 
-     class="light-only"/>
-
-<!-- Modo oscuro -->
-<img src="https://raw.githubusercontent.com/JeiGeek/JeiGeek/output/pacman-contribution-graph-dark.svg" 
-     alt="Pac-Man contribution graph dark" 
-     style="display:block;" 
-     class="dark-only"/>
-
-###
-
 ## 🛠️ Tecnologías que estoy aprendiendo
 
 <div style="display: flex; gap: 10px;">
@@ -36,6 +22,7 @@ Estudiante de Ingeniería de Sistemas. Me considero una persona **persistente**,
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-003B57?style=flat&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/pypi/frameworkversions/:frameworkName/:packageName" />
 </div>
 
 ---
