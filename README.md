@@ -24,16 +24,15 @@
 
 <br/>
 
-Estudiante de **Ingeniería de Sistemas** enfocado en **Inteligencia Artificial**. Me considero una persona **persistente**, **disciplinada** y **trabajadora**, con una gran pasión por el aprendizaje continuo y por construir soluciones que generen **impacto real en la sociedad** — desde el desminado humanitario hasta el diagnóstico médico.
+Estudiante de **Ingeniería de Sistemas** enfocado en **Inteligencia Artificial**. Me considero una persona **persistente**, **disciplinada** y **trabajadora**, con una gran pasión por el aprendizaje continuo y por construir soluciones que generen **impacto real en la sociedad** — enfocado en este momento en el diagnóstico médico.
 
 ```python
 class Jeison:
     def __init__(self):
         self.rol        = "Estudiante de Ingeniería de Sistemas"
-        self.enfoque    = ["Deep Learning", "Computer Vision", "Ciencia de Datos"]
-        self.aprendiendo = ["Vision Transformers", "Segmentación médica", "MLOps"]
-        self.superpoder = "explicar lo que entiendo a otros 🤝"
-        self.motor      = "la disciplina tarde o temprano vencerá la inteligencia"
+        self.enfoque    = ["Deep Learning", "Imágenes Médicas", "Ciencia de Datos"]
+        self.aprendiendo = ["Clasificación funcional ACV", "Segmentación médica", "MLOps"]
+        self.superpoder = "Explicar lo que entiendo a otros 🤝"
 
     def objetivo(self):
         return "Entrenar modelos que ayuden a personas, no solo que suban métricas."
@@ -90,23 +89,23 @@ class Jeison:
 
 <table>
   <tr>
-    <td width="50%" valign="top">🛰️ Anoté <b>a mano 360 imágenes térmicas</b> para enseñarle a una IA a encontrar minas antipersona.</td>
-    <td width="50%" valign="top">📄 Mi primer proyecto de investigación terminó convertido en un <b>paper</b>.</td>
+    <td width="50%" valign="top">🛰️ Los lenguajes que más domino son Python y Java.</td>
+    <td width="50%" valign="top">📄 Mi primer proyecto de investigación se convertirá en un <b>paper</b>.</td>
   </tr>
   <tr>
-    <td valign="top">🧠 Le he enseñado a una red neuronal a ver <b>lesiones dentro del cerebro</b> en resonancias magnéticas.</td>
-    <td valign="top">🐼 Mi equipo de IA se llama <b>LosPandas</b> — sí, por la librería.</td>
+    <td valign="top">🧠 Estoy aprendiendo ha <b>clasificar el desenlace funcional en pacientes con ACV.</b></td>
+    <td valign="top">🐼 Mi equipo de la asignatura de IA se llamó <b>LosPandas</b> — sí, por la librería.</td>
   </tr>
   <tr>
     <td valign="top">🤝 Aprendo más cuando <b>le explico a otros</b> lo que entendí.</td>
-    <td valign="top">🔁 Mi bucle favorito: <code>while True: aprender()</code></td>
+    <td valign="top">🔁 Mi bucle favorito: <code> For: Each </code></td>
   </tr>
 </table>
 
 <h2>🌱 Ahora mismo</h2>
 
-- 🔭 Investigando en **visión por computador** con el semillero *Hands-on Computer Vision*.
-- 📚 Profundizando en **Vision Transformers** y **segmentación de imágenes médicas**.
+- 🔭 Investigando en **imágenes médicas** con el grupo de investigación **BIVL²ab**.
+- 📚 Profundizando en *Clafisicación** y **segmentación de imágenes médicas**.
 - 🎯 Meta: llevar mis modelos del notebook a **aplicaciones reales (MLOps)**.
 
 <!-- ═══════════════════════════  PROYECTOS  ═══════════════════════════ -->
