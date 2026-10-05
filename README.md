@@ -17,7 +17,6 @@
 <br/>
 
 <!-- ═══════════════════════════  WHOAMI  ═══════════════════════════ -->
-<h2>$ whoami</h2>
 
 <div align="center">
   <img src="./assets/whoami.svg" width="100%" alt="whoami — Jeison Guarguati"/>
